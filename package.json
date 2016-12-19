@@ -1,0 +1,22 @@
+{
+  "name": "express_server",
+  "version": "1.0.0",
+  "description": "testing express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davejellicoe/expressServer.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Dave J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davejellicoe/expressServer/issues"
+  },
+  "homepage": "https://github.com/davejellicoe/expressServer#readme"
+}
